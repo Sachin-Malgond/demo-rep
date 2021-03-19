@@ -7,4 +7,8 @@ func main() {
 	fmt.Print("KGF")
 	fmt.Printf("RCB")
 	fmt.Printf("Drama")
+
+	kljsdfkljskl
+	sd
+	flskd
 }
