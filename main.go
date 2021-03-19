@@ -7,4 +7,5 @@ func main() {
 	fmt.Print("KGF")
 	fmt.Print("RCB")
 	fmt.Print("Cricket")
+	fmt.Print("Dilip wants to become CM")
 }
